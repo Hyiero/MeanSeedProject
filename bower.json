@@ -1,0 +1,24 @@
+{
+  "name": "mean-seed-project",
+  "description": "Simple Mean Seed Project",
+  "main": "server.js",
+  "authors": [
+    "Brandon Ripley"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "angular": "*",
+    "bootstrap": "*",
+    "jquery": "*",
+    "angular-ui-router": "*",
+    "angular-bootstrap": "*",
+    "components-font-awesome": "*"
+  }
+}
